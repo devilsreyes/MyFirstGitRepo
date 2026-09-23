@@ -1,9 +1,9 @@
 # Antworten zu den Kontrollfragen
 
 ### 1. Unterschied zwischen Working Directory, Staging Area und Repository
-- **Working Directory:** Dein normaler Arbeitsordner, in dem du Dateien bearbeitest
-- **Staging Area: ** Die Zwischenstation (`git add`), um Änderungen für den nächsten Commit vorzumerken
-- **Repository: ** Die Git-Datenbank (`.git`), in der alle Commits dauerhaft gespeichert sind
+- **Working Directory:**  Dein normaler Arbeitsordner, in dem du Dateien bearbeitest
+- **Staging Area:**  Die Zwischenstation (`git add`), um Änderungen für den nächsten Commit vorzumerken
+- **Repository:**  Die Git-Datenbank (`.git`), in der alle Commits dauerhaft gespeichert sind
 
 ### 2. Woran erkennst du, ob ein Merge Fast-Forward war?
 - Im Terminal steht ausdrücklich das Wort **`Fast-forward`**
@@ -21,5 +21,5 @@
 - **`git branch`** (der aktive Branch ist mit einem Stern `*` markiert) oder **`git status`**.
 
 ### 6. Mit welchen Befehlen machst du Änderungen sichtbar und dauerhaft?
-- **Sichtbar / Vormerken (Staging): ** `git add <dateiname>`
-- **Dauerhaft speichern (Commit): ** `git commit -m "deine nachricht"`
+- **Sichtbar / Vormerken (Staging):**  `git add <dateiname>`
+- **Dauerhaft speichern (Commit):**  `git commit -m "deine nachricht"`
