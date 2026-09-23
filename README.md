@@ -48,4 +48,10 @@ Sie ist für die Git-Übungsaufgabe gedacht, in der ein `dev`-Branch erstellt,
   git status
   ```
 
+## Änderungen
+- Name angepasst
+- Interessen eingetragen
+- Mailadresse hinzugefügt
+
+
 Viel Erfolg!
